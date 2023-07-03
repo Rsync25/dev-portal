@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkprem_docs=self.webpackChunkprem_docs||[]).push([[2535],{45641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Build a Perplexity AI clone on Prem","permalink":"/blog/perplexity-ai-self-hosted"},{"title":"Hello Prem!","permalink":"/blog/hello-prem"}]}')}}]);
